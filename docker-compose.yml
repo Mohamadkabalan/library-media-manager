@@ -37,7 +37,7 @@ services:
   # ── MySQL Database ───────────────────────────────────────────────────────────
   mysql:
     image: mysql:8.0
-    container_name: library_mysql
+    container_name: mysql
     restart: unless-stopped
     ports:
       - "3306:3306"

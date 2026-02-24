@@ -356,14 +356,3 @@ php artisan key:generate --show
 # 📄 License
 
 MIT License — free to use, modify, and extend.
-
----
-
-If you'd like, I can also:
-
-* 🔥 Make it more “portfolio-focused” to impress recruiters
-* 📈 Optimize it for GitHub SEO visibility
-* 🧠 Rewrite it in a more enterprise/technical tone
-* 🎯 Turn it into a project case study document
-
-Just tell me the goal.
